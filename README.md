@@ -15,6 +15,11 @@ Time spent: `7` hours
 - [X] User sees error message when there is a network error.
 - [X] User can pull to refresh the movie list.
 
+#### Gif walk through
+![alt tag](https://github.com/ZhengWu1/tomatoes/blob/master/networkError.gif)
+![alt tag](https://github.com/ZhengWu1/tomatoes/blob/master/Demo.gif)
+
+
 
 Credits
 ---------
